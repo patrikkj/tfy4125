@@ -1,0 +1,4 @@
+[submodule "plotify"]
+	path = plotify
+	url = https://github.com/patrikkj/plotify.git
+	branch = master
